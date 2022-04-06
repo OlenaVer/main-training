@@ -1,0 +1,69 @@
+.one{
+    width: 200px;
+    height: 300px;
+    background: #f14d4d;
+    /*font-size: 15px;*/
+    box-sizing: border-box;
+    /*padding: 15px 30px;*/
+    /*padding: 30px 12px 0 20px;*/
+    /*padding-left: 30px;*/
+    /*padding-top: 11px;*/
+    /*padding-right: 7px;*/
+    /*padding-bottom: 15px;*/
+    /*margin: 10px;*/
+    border: 10px solid yellow;
+    border-radius:50%;
+}
+.two{
+    width: 200px;
+    /*width: 10px (10% від ширини батьківського div)
+    (100vw - 100%область перегляду - висота vh)
+    (10em = 160px)
+    (10rem застосовується тоді, коли в html прописано font-size
+    якщо font-size 40px, то 1rem=40px);*/
+    height: 200px;
+    /*висоту не можна в % ставити просто*/
+    background: darkgreen;
+    border-left: 15px dotted red;
+    border-radius: 50px;
+}
+/*.photo {*/
+/*    height: 350px;*/
+/*    width: 400px;*/
+/*    background: cadetblue;*/
+/*}*/
+/*.txt {*/
+/*  height: 500px;*/
+/*    width: 400px;*/
+/*    background: #f1f147;*/
+/*}*/
+.wrap {
+    height: 600px;
+    background: silver;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    /*justify-content: center;*/
+    /*align-items: flex-start;*/
+    align-items: center;
+    /*flex-direction: column;*/
+    /*flex-direction: row-reverse;*/
+    /*flex-direction: column-reverse;*/
+    /*flex-wrap: nowrap;*/
+    flex-wrap: wrap;
+}
+.box {
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(130deg, yellow,blue);
+    margin-left: calc(16.5% - 100px);
+    margin-right: calc(16.5% - 100px);
+
+
+}
+
+/*.xxx {*/
+/*    width:calc(100px + 100px + 1em + 1%);*/
+/*    height: 200px;*/
+/*    background: black;*/
+/*}*/
