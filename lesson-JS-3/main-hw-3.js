@@ -5,7 +5,6 @@ for (let i = 0; i<10; i++) {
     document.write(`<div>Lorem ipsum dolor sit amet.</div>`);
 }
 document.write(`</ol>`);
-// let x = 10;
 
 // - За допомогою циклу for і document.write() вивести 10 блоків div c довільним текстом і індексом всередині
 document.write(`<ol>`);
@@ -22,14 +21,11 @@ while (d<20) {
 }
 document.write(`</ol>`);
 // - За допомогою циклу while вивести в документ 20 блоків h1 c довільним текстом і індексом всередині.
-// debugger
-document.write(`<ol>`);
 let s = 0;
 while (s<20) {
     document.write(`<h1>Lorem.${s}</h1>`);
     s++;
 }
-document.write(`</ol>`);
 // - Використовуючи данні з масиву, за допомоги document.write та циклу
 // побудувати структуру по шаблону
 // Масив:
@@ -153,17 +149,34 @@ let users = [
     {name: 'olya', age: 31, status: false},
     {name: 'max', age: 31, status: true}
 ];
+// for (let user of users) {
+//     if (user.status){
+//         document.write(`<ul>`);
+//     document.write(`<li>${user.status}</li>`)
+//     document.write(`</ul>`);
+//     }
+// }
+
 for (let user of users) {
-    if (user.status){
-        document.write(`<ul>`);
-    document.write(`<li>${user.status}</li>`)
-    document.write(`</ul>`);
-    }
-}
-    for (let user of users) {
     if (!user.status){
         document.write(`<ul>`)
         document.write(`<div>${user.status}</div>`)
         document.write(`</ul>`)
     }
+}
+
+for (let i = 0; i < users.length; i++) {
+    let user = users[i];
+    document.write(`<ul>`)
+    document.write(`<div>  </div>`)
+    document.write(`</ul>`)
+}
+for (const user of users) {
+    if (user.age >30){
+        // console.log(user);
+        document.write(`<ol>`);
+        document.write(`<div>${user.age}</div>`)
+        document.write(`</ol>`);
+    }
+
 }
