@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ece73206-9b24-4bed-ab59-5368eca6932a" name="Changes" comment="js-3-hw-and-preview-1">
-      <change afterPath="$PROJECT_DIR$/lesson-JS-4/hw-4-and-preview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-JS-4/index4.html" afterDir="false" />
+    <list default="true" id="ece73206-9b24-4bed-ab59-5368eca6932a" name="Changes" comment="js-4-preview-1">
+      <change afterPath="$PROJECT_DIR$/lesson-JS-4/hw-4.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-JS-4/hw-4-and-preview.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-JS-4/hw-4-and-preview.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-JS-4/index4.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-JS-4/index4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +45,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="LET" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -124,7 +126,8 @@
       <updated>1650877831333</updated>
       <workItem from="1650877842666" duration="5274000" />
       <workItem from="1651407340099" duration="19996000" />
-      <workItem from="1651518269135" duration="4790000" />
+      <workItem from="1651518269135" duration="4861000" />
+      <workItem from="1651571591224" duration="23057000" />
     </task>
     <task id="LOCAL-00009" summary="js-3-hw-and-preview">
       <created>1650895712763</created>
@@ -147,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651439586019</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="js-4-preview-1">
+      <created>1651525724099</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1651525724099</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +184,7 @@
     <MESSAGE value="js-1-preview" />
     <MESSAGE value="js-3-hw-and-preview" />
     <MESSAGE value="js-3-hw-and-preview-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="js-3-hw-and-preview-1" />
+    <MESSAGE value="js-4-preview-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="js-4-preview-1" />
   </component>
 </project>
