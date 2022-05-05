@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ece73206-9b24-4bed-ab59-5368eca6932a" name="Changes" comment="js-4-hw-1">
+    <list default="true" id="ece73206-9b24-4bed-ab59-5368eca6932a" name="Changes" comment="js-4-hw-2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson-JS-4/hw-4.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-JS-4/hw-4.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +125,8 @@
       <workItem from="1651407340099" duration="19996000" />
       <workItem from="1651518269135" duration="4861000" />
       <workItem from="1651571591224" duration="23233000" />
-      <workItem from="1651675909788" duration="4907000" />
+      <workItem from="1651675909788" duration="4958000" />
+      <workItem from="1651762429703" duration="95000" />
     </task>
     <task id="LOCAL-00009" summary="js-3-hw-and-preview">
       <created>1650895712763</created>
@@ -163,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651614074480</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="js-4-hw-2">
+      <created>1651731278317</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1651731278317</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +199,7 @@
     <MESSAGE value="js-3-hw-and-preview-1" />
     <MESSAGE value="js-4-preview-1" />
     <MESSAGE value="js-4-hw-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="js-4-hw-1" />
+    <MESSAGE value="js-4-hw-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="js-4-hw-2" />
   </component>
 </project>
