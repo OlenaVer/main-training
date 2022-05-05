@@ -72,9 +72,46 @@ function accept(arr){
 }
 accept(arrays);
 
-// - створити функцію яка приймає масив об'єктів
-// з наступними полями id,name,age , та виводить їх в документ.
-// Для кожного об'єкту окремий блок.
-
+// - створити функцію яка приймає масив об'єктів з наступними полями id,name,age , та виводить їх в документ. Для кожного об'єкту окремий блок.
+let array2=[
+    {
+        id: 1,
+        name: 'Nadin',
+        age: 30
+    },
+    {
+        id: 2,
+        name: 'Marie',
+        age: 31
+    }
+];
+function object(array){
+    for (const obj of array) {
+        document.write(`<div>ID-${obj.id} NAME-${obj.name} AGE-${obj.age}</div>`)
+    }
+}
+object(array2);
 // - створити функцію яка повертає найменьше число з масиву
-// - створити функцію яка приймає масив чисел, сумує значення елементів масиву та повертає його. Приклад [1,2,10]->13
+let array1=[5,8,14,32,56,17,99,18,44,3];
+function nambMin(nArray) {
+    let min=nArray[0];
+    for (const n of nArray) {
+        if (n<min){
+            min=n
+    }
+}
+    return min;
+};
+console.log(nambMin(array1));
+
+// - створити функцію яка приймає масив чисел,
+// сумує значення елементів масиву та повертає його. Приклад [1,2,10]->13
+let nambs=[5,8,14,32,56,17,99,18,44,3];
+function nambe(arrN){
+   let summa=0;
+    for (const item of arrN) {
+summa += item;
+    }
+    return summa;
+    }
+console.log(nambe(nambs));
