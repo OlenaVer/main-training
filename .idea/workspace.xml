@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff06c630-d708-4a76-816b-a6a4ba8a7d8a" name="Changes" comment="JS-6-lesson-preview">
-      <change afterPath="$PROJECT_DIR$/lesson-JS-6/mine.js" afterDir="false" />
+    <list default="true" id="ff06c630-d708-4a76-816b-a6a4ba8a7d8a" name="Changes" comment="JS-6-lesson-preview-06-06">
+      <change afterPath="$PROJECT_DIR$/lesson-JS-5/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson-JS-5/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson-JS-6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-JS-6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-JS-5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-JS-5/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +39,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -47,6 +49,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -58,7 +61,12 @@
       <updated>1651768685480</updated>
       <workItem from="1651768695052" duration="14654000" />
       <workItem from="1652180262512" duration="6224000" />
-      <workItem from="1653383438675" duration="22766000" />
+      <workItem from="1653383438675" duration="24560000" />
+      <workItem from="1662534091121" duration="629000" />
+      <workItem from="1666782308495" duration="102000" />
+      <workItem from="1667418059518" duration="7000" />
+      <workItem from="1672072642064" duration="4000" />
+      <workItem from="1677278359130" duration="1869000" />
     </task>
     <task id="LOCAL-00001" summary="JS-5-lesson-50%">
       <created>1651852774690</created>
@@ -88,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653557123897</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="JS-6-lesson-preview-06-06">
+      <created>1654534370962</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654534370962</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +125,7 @@
     <MESSAGE value="JS-5-lesson-50%?" />
     <MESSAGE value="JS-5-lesson-100%" />
     <MESSAGE value="JS-6-lesson-preview" />
-    <option name="LAST_COMMIT_MESSAGE" value="JS-6-lesson-preview" />
+    <MESSAGE value="JS-6-lesson-preview-06-06" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS-6-lesson-preview-06-06" />
   </component>
 </project>
